@@ -16,5 +16,10 @@
       "email": "jekamozg@mail.ru"
     }
   ],
+  "require" : {
+    "fortawesome/font-awesome": "4.2.0",
+    "twitter/bootstrap": "3.2.*",
+    "components/jquery": "1.11.0"
+  },
   "license": "Apache 2.0"
 }
