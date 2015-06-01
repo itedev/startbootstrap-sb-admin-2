@@ -1,0 +1,22 @@
+{
+  "name": "itedev/sb-admin-2",
+  "version": "1.0",
+  "description": "SB Admin 2 Bootstrap admin theme",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "admin",
+    "sb",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/itedev/startbootstrap-sb-admin-2/",
+  "authors": [
+    {
+      "name": "Itedev Team",
+      "email": "jekamozg@mail.ru"
+    }
+  ],
+  "require" : {},
+  "license": "Apache 2.0"
+}
