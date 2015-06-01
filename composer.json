@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+      "twbs/bootstrap": "~3.3"
+    }
 }
